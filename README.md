@@ -1,5 +1,5 @@
 # To-Do-List-Project
-To do list project using java, uses MySQL and contains GUI<br>
+To do list project using java, uses MySQL and java swing for GUI<br>
 This is my first project <br>
 I used java for complete Project<br>
 It uses MySQL for Data Base for local storage<br>
